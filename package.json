@@ -1,0 +1,15 @@
+{
+  "name": "rushmore",
+  "version": "1.0.0",
+  "description": "server side component-based mvc framework",
+  "main": "lib/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["mvc", "framework"],
+  "author": "Tyler Roberts",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^2.3.4"
+  }
+}
