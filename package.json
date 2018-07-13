@@ -1,6 +1,6 @@
 {
   "name": "rushmore",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "server side component-based mvc framework",
   "main": "lib/index",
   "scripts": {

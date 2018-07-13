@@ -60,11 +60,11 @@ export const App = () => {
     return [
         () => {
             h("div.container", [
-                h("nav", navbar()),
-                h("div.hr"),
-                h("div", TodoApp),
-                h("div.hr"),
-                h("footer.footer", footer())
+                h.nav(".nav", navbar()),
+                h.hr(),
+                h.div(".todo-app", TodoApp),
+                h.hr(),
+                h.footer(".footer", footer())
             ])
         }
     ]
