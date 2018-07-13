@@ -4,10 +4,14 @@
   "description": "server side component-based mvc framework",
   "main": "lib/index",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "watch": "tsc -w",
+    "build": "tsc ."
   },
-  "keywords": ["mvc", "framework"],
-  "author": "Tyler Roberts",
+  "keywords": [
+    "mvc",
+    "framework"
+  ],
+  "author": "Tyler Roberts (me@teachtyler.com)",
   "license": "ISC",
   "dependencies": {
     "typescript": "^2.3.4"

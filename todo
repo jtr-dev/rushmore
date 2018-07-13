@@ -1,0 +1,8 @@
+Design Goals
+
+    Concurrency
+    Props, State
+    2 Way Data Binding 
+        api <==> model <==> controller
+    Http/Rest
+    async state flow
